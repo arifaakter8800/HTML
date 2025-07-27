@@ -1,1 +1,11 @@
-# HTML
+<!doctype html>
+<!--
+
+  <!Doctype html>
+  <!DOCTYPE html> 
+  () => Parentheses
+  {} => Curly braces
+  [] => Square bracket
+  
+  My first HTML
+-->
